@@ -7,6 +7,7 @@
 
 2. OpenAI Copywriting
 - [Social Media Posts - Short](https://github.com/shihweichuang/OpenAI-Copywriting-Streamlit/blob/master/social-media-posts-short.md)
+- [Social Media Posts - Short Ad](https://github.com/shihweichuang/OpenAI-Copywriting-Streamlit/blob/master/social-media-posts-short-ad.md)
 - [Social Media Posts - Long](https://github.com/shihweichuang/OpenAI-Copywriting-Streamlit/blob/master/social-media-posts-long.md)
 - [Press Release - Ad](https://github.com/shihweichuang/OpenAI-Copywriting-Streamlit/blob/master/press-release-ad.md)
 - [Press Release - Event](https://github.com/shihweichuang/OpenAI-Copywriting-Streamlit/blob/master/press-release-event.md)

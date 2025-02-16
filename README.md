@@ -7,6 +7,7 @@
 - [統一發票中獎 (LINE聊天機器人) / UniformInvoiceLottery web crawler (with LINE Chatbot)](https://github.com/shihweichuang/UniformInvoiceLottery-Crawler-LINEBot)
 - [股票 (LINE聊天機器人) / Stock web crawler (with LINE Chatbot)](https://github.com/shihweichuang/Stock_web_crawler_LINEBot)
 - [巴哈姆特動畫瘋 所有動畫 相關資訊 / Anigamer](https://github.com/shihweichuang/CRAWLER/blob/master/anigamer.md)
+- [1111 薪資公秤 / Job Salary 1111](https://github.com/shihweichuang/CRAWLER/blob/master/job_salary_1111.md)
 - [其他練習 / Practice](https://github.com/shihweichuang/pyetl-crawler/tree/main/practice)
 
 <br>

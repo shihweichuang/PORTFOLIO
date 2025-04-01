@@ -16,6 +16,7 @@
 - [Netflix (LINE聊天機器人) / Netflix web crawler (with LINE Chatbot)](https://github.com/shihweichuang/Netflix-Crawler-LINEBot)
 - [統一發票中獎 (LINE聊天機器人) / UniformInvoiceLottery web crawler (with LINE Chatbot)](https://github.com/shihweichuang/UniformInvoiceLottery-Crawler-LINEBot)
 - [股票 (LINE聊天機器人) / Stock web crawler (with LINE Chatbot)](https://github.com/shihweichuang/Stock_web_crawler_LINEBot)
+- [Facebook 粉絲團貼文 / facebook_fanpage_posts](https://github.com/shihweichuang/CRAWLER/blob/master/facebook_fanpage_posts.md)
 - [巴哈姆特動畫瘋 所有動畫 相關資訊 / Anigamer](https://github.com/shihweichuang/CRAWLER/blob/master/anigamer.md)
 - [1111 薪資公秤 / Job Salary 1111](https://github.com/shihweichuang/CRAWLER/blob/master/job_salary_1111.md)
 - [104 薪資水平 / Job Salary 104](https://github.com/shihweichuang/CRAWLER/blob/master/job_salary_104.md)
